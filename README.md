@@ -38,7 +38,7 @@ Data is gathered from : https://fred.stlouisfed.org/
 - In **ACF** the spike at lag 1 implies **non-seasonal q** *(MA)* value of **1** and a significant spike at 12 implies a **seasonal q** value of **1**.
 - The seasonal difference has been applied once , so the **d** value would be **1**.
 
-*p - Auto Regressive Lags, q - Moving Averag Lags, d - Differencing*
+*p - Auto Regressive Lags, q - Moving Average Lags, d - Differencing*
 
 ![fig4](https://user-images.githubusercontent.com/72896396/221486801-52cab2d1-dbbb-4051-b10b-739833c3c392.png)
 
