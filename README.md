@@ -20,7 +20,7 @@ Data is gathered from : https://fred.stlouisfed.org/
 
 ![fig2](https://user-images.githubusercontent.com/72896396/221483056-56c3a770-fad0-4ef2-a85b-aea09df91ae9.png)
 
-- Based on the graphs, there is clear indication of **Seasonality** in the data.
+- Based on the graphs, there is a clear indication of **Seasonality** in the data.
 - The average sales in the time period of 43 years has been **~1,240**.
 - The data doesn't have any missing value, and has only one atbrite, which the Total Sales in a given month; hence **Feature Engineering** or **Feature Importance** are not necessary for this poject.
 
